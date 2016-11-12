@@ -32,6 +32,11 @@ h2 button{
     text-decoration: none;
     display: inline-block;
 }
+.wrapper{
+    position: absolute;
+    top: 30%;
+    left:40%;
+}
 .searchForm {
   width: 100%;
   text-align: center;
